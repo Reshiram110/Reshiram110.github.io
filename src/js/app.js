@@ -3,4 +3,6 @@ document.addEventListener("DOMContentLoaded", function () {
 	const sweetScroll = new SweetScroll({/* some options */});
   
 	/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-	particlesJS.load('particles-js', "./particlesjs-config.json");}, false);
+	particlesJS.load('particles-js', 'src/js/particles.json', function() {
+		console.log('callback - particles.js config loaded');
+	});
