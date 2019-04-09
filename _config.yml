@@ -1,16 +1,16 @@
 # Site settings
-title: Alberto Pastor Moreno
-description: Alberto Pastor Moreno personal portfolio
+title: Jayden Charbonneau
+description: Jayden Charbonneau's personal portfolio
 baseurl: "" # the subpath of the site
-url: "https://albertopastormr.github.io/" 
+url: "https://Reshiram110.github.io/" 
 avatar: "/assets/img/favicon.ico"
 # User settings
-username: Alberto Pastor Moreno
-user_description: Passionate software developer who loves to design simple solutions for complex real-world problems through upcoming technologies and agile methodologies. Teamwork, hard work and the imperative desire to perform at the best level are the core for me as an everyday learner who never stop working out for reaching my greatest personal version.
-user_title: Computer Science student
-email: albertopastormr@gmail.com
-twitter_username: albertopastormr
-github_username:  albertopastormr
+username: Jayden Charbonneau
+user_description: I'm an indie game developer running a startup, "Phoenix Entertainment". I've been programming for over 7 years, dabbling in many languages including C++, BASIC, JavaScript, Python, Lua, and a tiny bit of assembly. I still have quite a bit to learn.
+user_title: Indie Game Developer
+email: BinaryByte.DEV@gmail.com
+twitter_username: Reshiram110
+github_username:  Reshiram110
 gplus_username:  /103154106735689134313
 linkedin_username: albertopastormr
 medium_username: albertopastormr
@@ -20,10 +20,10 @@ instagram_username: albertopastormr
 l_cs-degree: https://informatica.ucm.es/estudios/grado-ingenieriadelsoftware
 l_jekyll: https://jekyllrb.com/
 # Social networks links
-l_my-email: mailto:albertopastormr@gmail.com
-l_my-twitter: https://twitter.com/albertopastormr
+l_my-email: mailto:BinaryByte@gmail.com
+l_my-twitter: https://twitter.com/Reshiram110
 l_my-gplus: https://plus.google.com/u/0/103154106735689134313
-l_my-github: https://github.com/albertopastormr
+l_my-github: https://github.com/Reshiram110
 l_my-instagram: https://instagram.com/albertopastormr
 l_my-linkedin: https://www.linkedin.com/in/albertopastormr/
  #class="ref-link" a utilizar para projects
