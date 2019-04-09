@@ -1,10 +1,10 @@
 {
   "particles": {
     "number": {
-      "value": 123,
+      "value": 246,
       "density": {
-        "enable": true,
-        "value_area": 673.51100518494565
+        "enable": false,
+        "value_area": 800
       }
     },
     "color": {
@@ -17,7 +17,7 @@
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 6
+        "nb_sides": 5
       },
       "image": {
         "src": "img/github.svg",
