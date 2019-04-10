@@ -1,6 +1,6 @@
-# Alberto Pastor portfolio
+# Jayden Charbonneau's portfolio
 
-This is my personal portfolio running [jekyll](https://jekyllrb.com/) over [the theme particle](https://github.com/nrandecker/particle)
+This is my personal portfolio running [jekyll](https://jekyllrb.com/) over the theme [particle](https://github.com/nrandecker/particle)
 
 ## Running the website in local
 
